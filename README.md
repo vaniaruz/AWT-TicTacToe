@@ -1,3 +1,9 @@
+
+# AWT - Tic Tac Toe 
+
+
+## Documentation
+
 Features
 - A 3x3 Tic Tac Toe grid using buttons.
 - Two players take turns placing X and O.
@@ -10,4 +16,6 @@ How to Run the Game
 2. Open the project folder in your code editor or terminal.
 3. Compile the code: javac TicTacToe.java
 4. Run the game: java TicTacToe
+
+
 
